@@ -1,0 +1,20 @@
+==========================================
+welcome to git
+==========================================
+Git is a global information tracker. It is a distributed version control sysytem. It allows multiple developers to work together and track the changes.
+Feautures:
+   *supports collaboration
+   *Free and open source
+   *create backups
+Commands:
+ . ==> represents files in current directory
+ .. ==> represents files in parent directory
+ git config --list ===>list all configurations .
+ git config --global user.name "username" .
+ git config --global user.email "user email" ===>set the author email and name to be used with your commits globally
+ git status ==> list which files are staged or untracked.
+ git add . ==>  add files to staging area.
+ git commit -m "message" ==> it displays what changes are done in the file.
+ git log ==> it generates logs of the file or view the history of commits of a repository.
+ git clone <url>==> clone or it download the repository that already exists on github.
+ git push ==> push the changes to the central repository.
