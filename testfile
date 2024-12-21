@@ -19,3 +19,4 @@ Commands:
  git clone <url>==> clone or it download the repository that already exists on github.
  git push ==> push the changes to the central repository.
  git branch ==>branch is new or seperate version of the main repository
+ git pull ==> it is used to pull all changes from remote repository in to the branch you are working on
