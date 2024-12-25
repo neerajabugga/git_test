@@ -25,3 +25,4 @@ Integrate  changes from one branch in to another.
 
 git rest====> to undo the changes 
 git diff ===> shows the difference between staging area and commit.
+git tag ==> create, list, delete or manage tags in a repository. Tags are like labels used to mark specific point in a repository.
