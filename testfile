@@ -22,4 +22,3 @@ Commands:
  git pull ==> it is used to pull all changes from remote repository in to the branch you are working on
  what is git merge?
 Integrate  changes from one branch in to another.
-git reset ===> undo the changes (we doesn't want to commit)
