@@ -20,3 +20,5 @@ Commands:
  git push ==> push the changes to the central repository.
  git branch ==>branch is new or seperate version of the main repository
  git pull ==> it is used to pull all changes from remote repository in to the branch you are working on
+ what is git merge?
+Integrate  changes from one branch in to another.
